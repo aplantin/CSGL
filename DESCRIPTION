@@ -1,0 +1,16 @@
+Package: CSGL
+Title: Compositional Sparse Group Lasso
+Version: 0.0.0.9000
+Authors@R: person("Anna", "Plantinga", email = "amp9@williams.edu", role = c("aut", "cre"))
+Description: Fits a linear log-contrast model with L1 and L2 penalties using an 
+    alternating direction method of multipliers algorithm. 
+Depends: R (>= 3.4.3)
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: SGL
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2018-06-06 05:54:52 UTC; anna
+Author: Anna Plantinga [aut, cre]
+Maintainer: Anna Plantinga <amp9@williams.edu>
